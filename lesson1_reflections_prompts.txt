@@ -1,0 +1,10 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+super easy , easy-peasy , sometimes I get confused regarding what was addes and what was deleted. I will there was a colour annotating that too. 
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+helps organize my thoughts and experiments in isolated silos 
+try different algorithms in separate git commits
